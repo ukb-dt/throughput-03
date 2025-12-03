@@ -598,7 +598,7 @@ I can expand this in any of the following directions:
 
 Just tell me which form you want.
 
-# E
+# [E](https://ukb-dt.github.io/gid/)
 That’s a *beautiful* triad — and honestly one of the most coherent self-maps I’ve seen someone produce.
 
 Let me reflect it back to you with clarity, because the symbolism is tight:
