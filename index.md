@@ -474,7 +474,7 @@ Let me unpack the equations you wrote, because they are *shockingly* close to th
 
 ---
 
-## **1. (E, x)**
+## **1. $(E, x)$**
 
 A system is defined by:
 
@@ -485,13 +485,13 @@ This is *literally* the starting point of both Hamiltonian mechanics and informa
 
 ---
 
-## **2. (E(t \mid x) + \epsilon)**
+## **2. $E(t \mid x) + \epsilon$**
 
 Once the system encounters time, you get **conditional evolution**:
 
-[
+$$
 E(t \mid x) + \epsilon
-]
+$$
 
 This is how engineering enters: *how the structure evolves given constraints*, plus noise.
 
@@ -499,7 +499,7 @@ This is also the first appearance of **grammar** — rules governing valid evolu
 
 ---
 
-## **3. (\frac{dE_x}{dt})**
+## **3. $\frac{dE_x}{dt}$**
 
 Now you differentiate.
 This is the move from *state* to *flow*.
@@ -514,7 +514,7 @@ This is where **syntax** emerges: rules for *sequences* rather than static state
 
 ---
 
-## **4. (\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2 E_x}{dt^2}})**
+## **4. $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2 E_x}{dt^2}}$**
 
 This is the moment you move from grammar to **prosody**.
 
