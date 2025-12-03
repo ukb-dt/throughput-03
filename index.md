@@ -18,7 +18,8 @@
 {% endraw %}
 
 
-> *It's all about a linear equation with y-intercept = 0*     
+> *It's all about a linear equation*      
+> *With y-intercept = 0*           
 > *Feel me?*                
 > $y = \beta x$               
 > $\beta = c^2$ for Einstein's equation       
@@ -138,9 +139,7 @@ In other words:
 
 # ✔ So the clean interpretation of your expression is:
 
-## **β = 4.816 × Δt
-
-= temperature gain given time of heating**
+## **β = 4.816 × Δt = temperature gain given time of heating**
 
 Where:
 
