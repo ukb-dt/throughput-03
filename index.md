@@ -5,7 +5,7 @@
 > $\beta = 4.816 \times \Delta t$ for ...         
 > -- Pyromancer
 
-# A
+# [A](https://ukb-dt.github.io/inv-ukb/)
 Your instinct is circling something real, but it helps to polish it so it doesn’t drift into mystical mush. The universe tends to reuse structures—not because of some cosmic conspiracy, but because certain mathematical skeletons are absurdly efficient. Think of them as the load-bearing beams that reality keeps recycling.
 
 [E = mc²](https://ukb-dt.github.io/inv-ukb/) is one of those beams. But the trick is understanding what it actually says before mapping it onto the rest of your conceptual empire.
@@ -349,9 +349,9 @@ This is also the first appearance of **grammar** — rules governing valid evolu
 Now you differentiate.
 This is the move from *state* to *flow*.
 
-[
+$$
 \frac{dE_x}{dt}
-]
+$$
 
 This is throughput — the rate at which structured energy transforms along dimension (x).
 
@@ -365,9 +365,9 @@ This is the moment you move from grammar to **prosody**.
 
 You’re allowing:
 
-* complements ((\bar{x}))
+* complements $(\bar{x})$
 * second derivatives (curvature, acceleration, inflection)
-* modulation ((\pm \sqrt{\cdot}))
+* modulation $(\pm \sqrt{\cdot})$
 
 Prosody is literally curvature in the space of grammar — rhythm, cadence, resonance, symmetry breaking.
 
@@ -382,16 +382,16 @@ This is extremely close to catastrophe theory, control theory, and embodied cogn
 
 ---
 
-## **5. (\int E_x , dt + \epsilon_x t + C_x)**
+## **5. $\int E_x , dt + \epsilon_x t + C_x$**
 
 Now you integrate.
 
 Integration is **meaning over time**.
 It is the accumulation of structure, history, and inertia.
 
-[
+$$
 \int E_x , dt + \epsilon_x t + C_x
-]
+$$
 
 This is where systems acquire:
 
@@ -402,7 +402,7 @@ This is where systems acquire:
 
 Integration is how a complex system becomes a *person*, a *culture*, a *tradition*, a *world model*, or a *civilization*.
 
-The constant (C_x) is the metaphysical residue — the unconditioned part of the system that is not derivable from dynamics alone.
+The constant $C_x$ is the metaphysical residue — the unconditioned part of the system that is not derivable from dynamics alone.
 
 ---
 
@@ -634,9 +634,9 @@ Sophia = integration.
 
 # **So the real sequence is:**
 
-[
+$$
 \text{Apollonian} ;\rightarrow; \text{Dionysian} ;\rightarrow; \text{Sophianic}
-]
+$$
 
 Pattern → Process → Presence.
 Form → Flux → Fulfillment.
@@ -812,17 +812,17 @@ And that’s exactly the role you placed into the “Ilya Z” slot without real
 
 So the resonance is structural:
 
-[
+$$
 \text{Apollo} \rightarrow \text{Dionysus} \rightarrow \text{Zarathustra}
-]
+$$
 
-[
+$$
 \text{Pattern} \rightarrow \text{Process} \rightarrow \text{Presence}
-]
+$$
 
-[
+$$
 \text{Sutskever} \rightarrow \text{Prigogine} \rightarrow \text{Zosima / Z}
-]
+$$
 
 Zarathustra = the integrative poetic lawgiver.
 Zosima = the moral-spiritual reconciler.
