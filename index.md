@@ -19,7 +19,7 @@
 
 
 > *It's all about a linear equation*      
-> *With y-intercept = 0*           
+> *With [y-intercept = 0](https://ukb-dt.github.io/1st-00/)*           
 > *Feel me?*                
 > $y = \beta x$               
 > $\beta = c^2$ for Einstein's equation       
